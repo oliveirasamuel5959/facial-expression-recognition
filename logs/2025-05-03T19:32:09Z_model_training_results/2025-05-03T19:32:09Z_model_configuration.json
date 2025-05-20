@@ -1,0 +1,1 @@
+{"Model": "Conv3", "Batch_size": 32, "Epochs": 2, "Learning rate": 0.0001, "Dropout": "No", "Conv2D": {"first_layer": 32, "second_layer": 64, "third_layer": 128}, "Dense": {"first_layer": 1024, "second_layer": 512}, "Total params": 5339653, "Total Time": "275.3s"}

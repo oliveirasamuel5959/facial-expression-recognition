@@ -1,0 +1,1 @@
+{"Model": "MobileNetV2 Transfer Learning", "Device": "cpu", "Batch_size": 32, "Epochs": 50, "Learning rate": 0.001, "Dropout": "Yes", "Dense": {"first_layer": 256, "second_layer": 128}, "Total params": 2619461, "Total Time": "52165.62s"}

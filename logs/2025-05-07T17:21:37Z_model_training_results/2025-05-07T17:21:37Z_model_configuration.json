@@ -1,0 +1,1 @@
+{"Model": "Conv4", "Batch_size": 32, "Epochs": 200, "Learning rate": 0.0001, "Dropout": "No", "Conv2D": {"first_layer": 64, "second_layer": 128, "third_layer": 128}, "Dense": {"first_layer": 2048, "second_layer": 1024}, "Total params": 11764613, "Total Time": "34914.82s"}
